@@ -1,7 +1,7 @@
-![first image](assets/1.png)
+![first image](Assets/1.png)
 
-![second image](assets/1.1.png)
+![second image](Assets/1.1.png)
 
-![third image](assets/2.png)
+![third image](Assets/2.png)
 
-![fourth image](assets/2.2.png)
+![fourth image](Assets/2.2.png)
